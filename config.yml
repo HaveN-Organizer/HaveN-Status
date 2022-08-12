@@ -68,7 +68,7 @@ params:
   categories:
     - name: Uncategorized
       untitled: true
-      closed: true
+      closed: false
   description: Is the realm or a server down? Check here for frequent status
     updates and notes.
   enableCustomHTML: true
