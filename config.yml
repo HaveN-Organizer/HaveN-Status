@@ -56,7 +56,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: /img/82a5562e-5f22-476e-b963-60e37337a41d.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -64,7 +64,7 @@ params:
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
@@ -74,7 +74,7 @@ params:
     - name: Empty Category
     - name: Uncategorized
       untitled: true
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: Is the realm or a server down? Check here for frequent status
+    updates and notes.
   enableCustomHTML: true
   useLargeHeaderDesign: false
