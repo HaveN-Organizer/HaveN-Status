@@ -50,7 +50,7 @@ params:
     - name: Website
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#006abc"
   enableLastMod: true
   headerTextColor: white
   logo: /img/82a5562e-5f22-476e-b963-60e37337a41d.png
