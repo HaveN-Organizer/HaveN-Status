@@ -50,7 +50,7 @@ params:
     - name: Wiki
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#006abc"
+  brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
   logo: /img/82a5562e-5f22-476e-b963-60e37337a41d.png
@@ -61,7 +61,7 @@ params:
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
-  notice: "#24478f"
+  notice: "#006abc"
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
