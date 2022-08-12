@@ -45,9 +45,9 @@ params:
       category: Uncategorized
     - name: Discord bot
       category: Uncategorized
-    - name: Wiki
-      category: Uncategorized
     - name: Website
+      category: Uncategorized
+    - name: Wiki
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#006abc"
