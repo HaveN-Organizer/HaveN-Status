@@ -37,17 +37,19 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Prisons realm
+    - name: Prisons Realm
       category: Uncategorized
-    - name: Bedrock server
+    - name: Bedrock Server
       category: Uncategorized
-    - name: Java server
+    - name: Java Server
       category: Uncategorized
-    - name: Discord bot
+    - name: Discord Bot
       category: Uncategorized
     - name: Website
       category: Uncategorized
     - name: Wiki
+      category: Uncategorized
+    - name: Public API
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
