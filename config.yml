@@ -44,9 +44,7 @@ params:
   logo: /img/82a5562e-5f22-476e-b963-60e37337a41d.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Test
-      link: https://uptimerobot.com/dashboard#792346052
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
