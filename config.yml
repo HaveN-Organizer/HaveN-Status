@@ -36,7 +36,19 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - name: Prisons realm
+      category: Uncategorized
+    - name: Bedrock server
+      category: Uncategorized
+    - name: Java server
+      category: Uncategorized
+    - name: Discord bot
+      category: Uncategorized
+    - name: Wiki
+      category: Uncategorized
+    - name: Website
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
